@@ -1,0 +1,1 @@
+# pymysql-old-password-support
