@@ -33,6 +33,5 @@ with connection.cursor() as cursor:
     print("Loja:",store,"\n")
     time.sleep(2)
 
-    connection.connect():
     connection.close()
     print("\nA conexão com o Servidor e Banco de Dados",resultdb['database()'],"foi encerrada.\n")
